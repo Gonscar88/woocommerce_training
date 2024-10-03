@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Docker Wordpress
 Run a wordpress store locally.
 
@@ -10,3 +11,7 @@ Run a wordpress store locally.
 - [Adding and Managing Products](https://docs.woocommerce.com/document/managing-products/)
 - [Docker Commands](https://gist.github.com/daniloab/dbea32701e323975bf2d4d51a48f33b5)
 - [Quickstart: Compose and WordPress](https://docs.docker.com/samples/wordpress/)
+=======
+# woocommerce_training
+Prueba general de Wordpress para woocommerce
+>>>>>>> own_dev/main
